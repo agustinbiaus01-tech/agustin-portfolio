@@ -38,7 +38,7 @@ export default function Hero() {
           transition={{ delay: 0.8 }}
           className="mt-6 tracking-[0.3em] text-sm uppercase"
         >
-          Architecture Portfolio
+          Portafolio Arquitectura
         </motion.p>
       </div>
     </section>

@@ -7,7 +7,7 @@ export default function Projects() {
       <div className="container-custom">
         <div className="mb-20">
           <p className="uppercase tracking-[0.3em] text-sm text-muted">
-            Projects
+            Proyectos
           </p>
 
           <h2 className="text-6xl font-semibold mt-4">

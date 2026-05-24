@@ -6,7 +6,7 @@ export default function Contact() {
     >
       <div className="container-custom">
         <h2 className="text-6xl font-semibold">
-          Let’s work together
+          Información de contacto
         </h2>
 
         <p className="mt-8 text-xl text-neutral-600">

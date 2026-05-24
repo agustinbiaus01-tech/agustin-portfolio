@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Agustin Biaus",
-  description: "Architecture Portfolio",
+  description: "Portafolio Arquitectura",
 };
 
 export default function RootLayout({

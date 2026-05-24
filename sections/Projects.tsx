@@ -11,7 +11,7 @@ export default function Projects() {
           </p>
 
           <h2 className="text-6xl font-semibold mt-4">
-            Selected Works
+            Trabajos destacados
           </h2>
         </div>
 
